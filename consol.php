@@ -9,12 +9,12 @@
 </head>
 <body>
    <script>
-        var name = "Saeed Khan";
+        var name = "SkDeveloperz";
         console.log(name);
-        var email = "khansaeed0005@yahoo.com";
+        var email = "SkDeveloperz@yahoo.com";
         console.log(email);
-        var age = 27;
-        console.log(age);
+        var madeIn = 2012;
+        console.log(madeIn);
         var data = true;
         console.log(data);
 
